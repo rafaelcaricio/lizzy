@@ -9,3 +9,7 @@ build.py
 .cache
 .venv
 run.sh
+_site
+.sass-cache
+.DS_Store
+_posts
