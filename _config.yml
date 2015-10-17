@@ -3,8 +3,8 @@ title: Lizzy
 email: Joao Santos <joao.santos@zalando.de>
 description: > # this means to ignore newlines until "baseurl:"
     REST Service to deploy AWS CF templates using Senza.
-baseurl: "https://github.com/zalando/lizzy" # the subpath of your site, e.g. /blog/
-url: "https://github.com/zalando/lizzy" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 #twitter_username:
 github_username:  jmcs
 
